@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/8Grom8.github.goit-react-hw-07-phonebook/static/css/main.57542c39.chunk.css",
-    "main.js": "/8Grom8.github.goit-react-hw-07-phonebook/static/js/main.a8be7e7b.chunk.js",
-    "main.js.map": "/8Grom8.github.goit-react-hw-07-phonebook/static/js/main.a8be7e7b.chunk.js.map",
+    "main.js": "/8Grom8.github.goit-react-hw-07-phonebook/static/js/main.c07dd9aa.chunk.js",
+    "main.js.map": "/8Grom8.github.goit-react-hw-07-phonebook/static/js/main.c07dd9aa.chunk.js.map",
     "runtime-main.js": "/8Grom8.github.goit-react-hw-07-phonebook/static/js/runtime-main.dae33f5d.js",
     "runtime-main.js.map": "/8Grom8.github.goit-react-hw-07-phonebook/static/js/runtime-main.dae33f5d.js.map",
     "static/js/2.6fa06746.chunk.js": "/8Grom8.github.goit-react-hw-07-phonebook/static/js/2.6fa06746.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.dae33f5d.js",
     "static/js/2.6fa06746.chunk.js",
     "static/css/main.57542c39.chunk.css",
-    "static/js/main.a8be7e7b.chunk.js"
+    "static/js/main.c07dd9aa.chunk.js"
   ]
 }
