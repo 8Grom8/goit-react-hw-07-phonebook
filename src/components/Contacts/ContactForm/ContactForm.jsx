@@ -3,9 +3,7 @@ import PropTypes from "prop-types";
 import css from "./ContactForm.module.css";
 import { connect } from "react-redux";
 import { addNewContact } from "../../../redux/contacts/contactsOperations";
-// import { v4 as uuidv4 } from "uuid";
 import { selectAllContacts } from "../../../redux/contacts/contactsSelectors";
-// import axios from "axios"
 
 class ContactForm extends Component {
   static propTypes = {

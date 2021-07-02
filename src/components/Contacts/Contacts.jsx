@@ -10,7 +10,6 @@ import {
 } from "../../redux/contacts/contactsOperations";
 import {
   selectAllContacts,
-  // selectFilter,
   selectFilteredItems,
 } from "../../redux/contacts/contactsSelectors";
 
