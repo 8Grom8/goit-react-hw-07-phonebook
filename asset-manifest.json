@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/8Grom8.github.goit-react-hw-07-phonebook/static/css/main.57542c39.chunk.css",
-    "main.js": "/8Grom8.github.goit-react-hw-07-phonebook/static/js/main.c07dd9aa.chunk.js",
-    "main.js.map": "/8Grom8.github.goit-react-hw-07-phonebook/static/js/main.c07dd9aa.chunk.js.map",
-    "runtime-main.js": "/8Grom8.github.goit-react-hw-07-phonebook/static/js/runtime-main.dae33f5d.js",
-    "runtime-main.js.map": "/8Grom8.github.goit-react-hw-07-phonebook/static/js/runtime-main.dae33f5d.js.map",
-    "static/js/2.6fa06746.chunk.js": "/8Grom8.github.goit-react-hw-07-phonebook/static/js/2.6fa06746.chunk.js",
-    "static/js/2.6fa06746.chunk.js.map": "/8Grom8.github.goit-react-hw-07-phonebook/static/js/2.6fa06746.chunk.js.map",
-    "index.html": "/8Grom8.github.goit-react-hw-07-phonebook/index.html",
-    "static/css/main.57542c39.chunk.css.map": "/8Grom8.github.goit-react-hw-07-phonebook/static/css/main.57542c39.chunk.css.map",
-    "static/js/2.6fa06746.chunk.js.LICENSE.txt": "/8Grom8.github.goit-react-hw-07-phonebook/static/js/2.6fa06746.chunk.js.LICENSE.txt"
+    "main.css": "/github.io/goit-react-hw-07-phonebook/static/css/main.57542c39.chunk.css",
+    "main.js": "/github.io/goit-react-hw-07-phonebook/static/js/main.c07dd9aa.chunk.js",
+    "main.js.map": "/github.io/goit-react-hw-07-phonebook/static/js/main.c07dd9aa.chunk.js.map",
+    "runtime-main.js": "/github.io/goit-react-hw-07-phonebook/static/js/runtime-main.9112f7e1.js",
+    "runtime-main.js.map": "/github.io/goit-react-hw-07-phonebook/static/js/runtime-main.9112f7e1.js.map",
+    "static/js/2.6fa06746.chunk.js": "/github.io/goit-react-hw-07-phonebook/static/js/2.6fa06746.chunk.js",
+    "static/js/2.6fa06746.chunk.js.map": "/github.io/goit-react-hw-07-phonebook/static/js/2.6fa06746.chunk.js.map",
+    "index.html": "/github.io/goit-react-hw-07-phonebook/index.html",
+    "static/css/main.57542c39.chunk.css.map": "/github.io/goit-react-hw-07-phonebook/static/css/main.57542c39.chunk.css.map",
+    "static/js/2.6fa06746.chunk.js.LICENSE.txt": "/github.io/goit-react-hw-07-phonebook/static/js/2.6fa06746.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dae33f5d.js",
+    "static/js/runtime-main.9112f7e1.js",
     "static/js/2.6fa06746.chunk.js",
     "static/css/main.57542c39.chunk.css",
     "static/js/main.c07dd9aa.chunk.js"
